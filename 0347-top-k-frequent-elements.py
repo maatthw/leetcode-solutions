@@ -21,3 +21,6 @@ def topKFrequent(nums, k):
             top_k.append(num)
 
     return top_k
+
+# Time Complexity  : O(n) -> O(n) + O(n) + O(n) = O(n)
+# Space Complexity : O(n)
